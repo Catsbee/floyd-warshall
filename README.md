@@ -12,4 +12,6 @@ cette fermeture transitive est adapté afin de conserver, parmi tous les chemins
 la valeur la plus faible.
 
 ## Lancer le projet 
+```bash
 python L3-B8-main.py
+```
